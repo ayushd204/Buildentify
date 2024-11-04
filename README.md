@@ -77,4 +77,20 @@ Ensure the `dataset_path` and `model_path` variables point to the correct datase
 - **Model Checkpoints**: Saved after each epoch and for the best model in `output/`.
 - **Evaluation Report**: Prints the accuracy, F1 score, confusion matrix, and classification report in the console.
 
+### Visuals
+
+1. **Training Loss Curve**: Shows the model’s loss reduction across epochs.
+
+   ![Loss Curve](output/loss.png)
+
+2. **Confusion Matrix**: Visualizes model performance across different building classes.
+
+   ![Confusion Matrix](output/confusion_matrix.jpg)
+
+3. **Predictions Plot**: Displays example predictions from the model with true vs. predicted labels.
+
+   ![Predictions Plot](output/predictions_plot.png)
+
+---
+
 Team: Antimony051, Ayush Dhungana
