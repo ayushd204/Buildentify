@@ -76,3 +76,5 @@ Ensure the `dataset_path` and `model_path` variables point to the correct datase
 - **Training Loss Plot**: Saved as `loss.png` in the `output/` folder.
 - **Model Checkpoints**: Saved after each epoch and for the best model in `output/`.
 - **Evaluation Report**: Prints the accuracy, F1 score, confusion matrix, and classification report in the console.
+
+Team: Antimony051, Ayush Dhungana
