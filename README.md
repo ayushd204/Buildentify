@@ -87,7 +87,7 @@ Ensure the `dataset_path` and `model_path` variables point to the correct datase
 
    ![Confusion Matrix](output/confusion_matrix.jpg)
 
-3. **Predictions Plot**: Displays example predictions from the model with true vs. predicted labels.
+3. **Predictions Plot**: Displays example predictions from the model.
 
    ![Predictions Plot](output/predictions_plot.png)
 
