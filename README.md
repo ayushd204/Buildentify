@@ -63,12 +63,11 @@ The evaluation metrics include:
 - **Classification Report**: Includes precision, recall, and F1 scores for each building class.
 
 #### Running Evaluation
+Close the repository, and place your folders containing images into the test folder. Read dataset/test/instructions.txt for exact info.
 Run the `eval.py` script as follows:
 ```bash
 python eval.py
 ```
-
-Ensure the `dataset_path` and `model_path` variables point to the correct dataset and model checkpoint in `main()` in `eval.py`.
 
 ---
 
