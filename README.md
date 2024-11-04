@@ -64,6 +64,7 @@ The evaluation metrics include:
 
 #### Running Evaluation
 Close the repository, and place your folders containing images into the test folder. Read dataset/test/instructions.txt for exact info.
+
 Run the `eval.py` script as follows:
 ```bash
 python eval.py
