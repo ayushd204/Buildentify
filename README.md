@@ -7,6 +7,7 @@ The aim of this project is to develop a machine learning model that classifies i
 - `dataset/MergeDataset_pt`: Contains the images of buildings saved as PyTorch tensors used for training the model.
 - `dataset/test`: Contains the images of buildings for the test split, they can be png or jpeg.
 - `output/`: Stores the trained model checkpoints and training metrics, such as loss plots.
+- `utils/`: Contains all the scripts.
 
 ### Files
 - `train.py`: Contains functions to train the model using data augmentations and optimized settings for the available hardware.
