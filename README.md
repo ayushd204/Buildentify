@@ -1,5 +1,22 @@
 # README
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Folder Structure](#folder-structure)
+- [Files](#files)
+- [Instructions](#instructions)
+  - [Requirements](#1-requirements)
+  - [Training the Model](#2-training-the-model)
+    - [Model Architecture](#model-architecture)
+    - [Training Steps](#training-steps)
+    - [Running Training](#running-training)
+  - [Evaluating the Model](#3-evaluating-the-model)
+    - [Evaluation Metrics](#evaluation-metrics)
+    - [Running Evaluation](#running-evaluation)
+- [Output](#output)
+  - [Visuals](#visuals)
+
+---
 ## Project Overview
 The aim of this project is to develop a machine learning model that classifies images of buildings at Mississippi State University. Using a ResNet-50 architecture, the model predicts which building is shown in a given image. The project implements image data augmentation and mixed-precision training to optimize performance on limited computational resources.
 
