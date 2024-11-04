@@ -1,0 +1,8 @@
+please place the folders containing the test images in this folder
+test
+-----Butler Hall
+	---But0.png
+	---......
+-----Carpenter Hall
+	---Img0.png
+....

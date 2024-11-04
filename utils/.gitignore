@@ -1,0 +1,4 @@
+test.*
+tmp*
+preprocess_data.py
+rotate_images.py
